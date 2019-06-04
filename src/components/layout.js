@@ -13,6 +13,8 @@ import Header from "./header"
 import Contact from "./Contact"
 
 import "./layout.css"
+import '../assets/scss/main.scss'
+
 
 const Layout = ({ children }) => (
   <StaticQuery

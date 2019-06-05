@@ -13,7 +13,7 @@ Portfolio site built using React, CSS Grid, Sass
 Generated with the Gatsby CLI using the [default starter](https://github.com/gatsbyjs/gatsby-starter-default)
 
 
-**Pending:** Starting design template from [codebushi](https://github.com/codebushi/gatsby-starter-forty)
+Starting design template from [codebushi](https://github.com/codebushi/gatsby-starter-forty)
 
 
 ## Deployment

@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "thacher-hussain-portfolio",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Thacher Hussain Portfolio",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Thacher Hussain <thacherT1D@gmail.com",
   "dependencies": {
     "gatsby": "^2.8.3",
     "gatsby-cli": "^2.6.4",
@@ -38,9 +38,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/thacherT1D/portfolio"
   }
 }

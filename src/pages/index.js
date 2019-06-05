@@ -15,6 +15,9 @@ import pic05 from '../assets/images/pic05.jpg'
 import pic06 from '../assets/images/pic06.jpg'
 
 
+import dogMountain from '../assets/images/portfolio/dog-mountain.jpg'
+
+
 // const IndexPage = () => (
 //   <Layout>
 //     <SEO title="Home" />
@@ -47,12 +50,13 @@ class IndexPage extends React.Component {
 
                 <div id="main">
                     <section id="one" className="tiles">
-                        <article style={{backgroundImage: `url(${pic01})`}}>
+                        <article style={{backgroundImage: `url(${dogMountain})`}}>
                             <header className="major">
-                                <h3>Aliquam</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <h3>Travel with Your Doggo</h3>
+                                <p>Demo React App</p>
+                                <p>UX Design Process, React, Material Design</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <a href="https://github.com/thacherT1D/react-travel" className="link primary"></a>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
